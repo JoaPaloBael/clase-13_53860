@@ -45,6 +45,10 @@
         padding: 0 10px;
         color: #FFFAFF; }
 
+@media (max-width: 890px) {
+  .header {
+    background-color: #3E92CC; } }
+
 .main-index h1 {
   font-family: "Glass Antiqua", cursive;
   font-size: 45px; }
